@@ -1,0 +1,17 @@
+[
+    {
+        "LLM": "17",
+        "bdi-score": 1,
+        "key-symptoms": []
+    },
+    {
+        "LLM": "18",
+        "bdi-score": 8,
+        "key-symptoms": [
+            "Loss of Pleasure",
+            "Loss of Interest",
+            "Loss of Energy",
+            "Tiredness/Fatigue"
+        ]
+    }
+]

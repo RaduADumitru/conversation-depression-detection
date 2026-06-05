@@ -1,0 +1,172 @@
+[
+    {
+        "LLM": "19",
+        "conversation": [
+            {
+                "role": "user",
+                "message": "Good morning. It's good to see you again. How have things been going for you lately?"
+            },
+            {
+                "role": "assistant",
+                "message": "It\u2019s all good. Just busy with work and that\u2019s about it. Nothing too crazy, just your average Monday morning. *laughs*"
+            },
+            {
+                "role": "user",
+                "message": "*smiles* Ah, I'm glad to hear that! Mondays can be tough, especially when we're trying to get back into the swing of things. So, what's been the most challenging part of your work lately? Is there anything that's been weighing on your mind or keeping you up at night?"
+            },
+            {
+                "role": "assistant",
+                "message": "No, not really. I just like to stay organized so I don't feel overwhelmed. It\u2019s just a lot to handle, but I manage. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "*smiles back* Ah, I totally get it! Being organized can be a great way to feel more in control. It sounds like you're doing a great job of managing your workload. Can you tell me a bit more about what you like to do outside of work? Do you have any hobbies or activities that help you unwind and relax?"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, I like trying out new recipes. It\u2019s a fun way to spend the evening and I get a nice dinner out of it too. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "*smiles* That sounds like a great way to spend your free time! Cooking can be so therapeutic, and it's wonderful that you've found something that brings you joy. Have you noticed any changes in your appetite or eating habits lately? Do you find yourself looking forward to cooking and trying new recipes, or has it become more of a chore?"
+            },
+            {
+                "role": "assistant",
+                "message": "It\u2019s still fun! *laughs* I just need to make sure I'm not eating too much of the ingredients before I finish the dish. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "*laughs* Ahahaha, I totally get it! It can be hard to resist the temptation of those delicious ingredients! *smiles* It sounds like you're still enjoying the process, though. That's great! Has your social life changed at all recently? Do you find yourself spending more time alone or with others?"
+            },
+            {
+                "role": "assistant",
+                "message": "I'm still social. *smiles* I just like to space things out a bit so I don't feel overwhelmed. It\u2019s all good."
+            },
+            {
+                "role": "user",
+                "message": "*smiles* Ah, I totally understand! It's great that you're prioritizing your own needs and taking time for yourself. Sometimes, taking a step back and recharging can be really beneficial. Are there any activities or people that you particularly enjoy spending time with? Anything that makes you feel energized and fulfilled?"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, definitely my friends! *smiles* We have a good time together, and it\u2019s always a laugh. *laughs*"
+            },
+            {
+                "role": "user",
+                "message": "*smiles* That sounds wonderful! Having good friends who make you laugh and feel good is a real treasure. It's great that you have that in your life. Can you tell me a bit more about what you like to do with your friends? Do you have any favorite activities or places you like to go together?"
+            },
+            {
+                "role": "assistant",
+                "message": "We like to go out for brunch or see a movie. *smiles* It\u2019s just nice to relax with them."
+            },
+            {
+                "role": "user",
+                "message": "*smiles* Ah, that sounds like a great way to spend time with friends! Brunch and movies can be such a relaxing and enjoyable way to catch up and have some fun. It's wonderful that you have that kind of camaraderie with your friends. Have you ever had to cancel plans or reschedule with them due to work or other commitments?"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, sometimes. *smiles* It\u2019s not a big deal, we just make it work."
+            },
+            {
+                "role": "user",
+                "message": "*smiles* Ah, that's great to hear! It sounds like you and your friends are very understanding and flexible with each other. That's really important for maintaining strong relationships. Thank you for sharing, I think I have a good understanding now. We can discuss this further at our next appointment."
+            }
+        ]
+    },
+    {
+        "LLM": "20",
+        "conversation": [
+            {
+                "role": "user",
+                "message": "Good morning. It's good to see you again. How have things been going for you lately?"
+            },
+            {
+                "role": "assistant",
+                "message": "It's been busy, as usual. Work has been keeping me up late, and I\u2019m trying to get a few projects done around the house. It\u2019s a bit of a grind right now, but I know it will settle down eventually."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're feeling a bit overwhelmed with work and personal responsibilities. That can be really tough to manage. Can you tell me more about what's been going on at work that's been keeping you up late? Is it a specific project or deadline that's causing the stress? And how are you finding the time to get projects done around the house? Are you feeling like you're getting a sense of accomplishment or is it feeling like a never-ending to-do list?"
+            },
+            {
+                "role": "assistant",
+                "message": "Work has just been really demanding. We have a big project coming up, and everyone is scrambling to get everything done. I've been putting in some extra hours just to keep up. It\u2019s exhausting, but I know it will be worth it in the end."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're really feeling the pressure to deliver on this project. It's great that you're willing to put in the extra effort to get it done, but I can imagine it's taking a toll on your energy levels. Are you finding time for yourself amidst all the hustle and bustle, or is it feeling like you're just going from one task to the next without much break?"
+            },
+            {
+                "role": "assistant",
+                "message": "I try to make time, but it\u2019s tough. I usually just collapse on the couch as soon as I get home. I\u2019m just trying to power through and hope that once the project is done, I can relax."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're really sacrificing your downtime to get this project done. That can be a real challenge. Have you noticed any changes in your mood or appetite since you've been putting in these extra hours? Are you finding that you're craving certain foods or drinks to help you cope with the stress?"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, I have. I've been grabbing coffee and energy bars nonstop. I\u2019m pretty sure my diet has been entirely caffeine and sugar lately. I know it\u2019s not sustainable, but I\u2019m just trying to get through it."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're using caffeine and sugar as a way to keep yourself going, but it's not a very nourishing or sustainable way to cope with stress. It's great that you're aware of it, though! Have you ever found yourself feeling guilty or self-critical about not being able to take better care of yourself during times like this?"
+            },
+            {
+                "role": "assistant",
+                "message": "A little bit, yeah. I feel like I should be handling it better. But I try to just shake it off and focus on getting it done."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're putting a lot of pressure on yourself to be able to handle everything perfectly, and when you don't, you feel like you're not meeting your own expectations. That can be really tough to deal with. Can you tell me more about what you mean by \"shaking it off\"? Are you finding that you're able to push those feelings aside and focus on the project, or do they linger and affect your mood?"
+            },
+            {
+                "role": "assistant",
+                "message": "I just try to distract myself, really. I\u2019ll put on music or scroll through my phone to get out of my head. It\u2019s not the healthiest way to handle it, but it works for now."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're using distractions as a way to cope with those feelings of guilt and self-criticism. While it might be helpful in the short-term, it's understandable that you might not feel like you're really addressing the underlying issues. Have you ever thought about what you might be doing for yourself, outside of work and projects, that brings you joy or relaxation?"
+            },
+            {
+                "role": "assistant",
+                "message": "I try to, but it feels like a luxury I can\u2019t afford right now. I keep telling myself I'll get to it eventually, but it feels like a pipe dream."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're feeling like you're putting your own needs and desires on the backburner in order to focus on work and projects. That can be a really tough place to be. Can you tell me more about what you're hoping to get to eventually? What are some things that you're looking forward to doing for yourself when things calm down?"
+            },
+            {
+                "role": "assistant",
+                "message": "I want to get back to painting, I guess. I used to do it all the time, but I haven't picked up a brush in months. It feels like a hobby I left behind."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like painting is something that brings you a sense of joy and fulfillment, and it's been a while since you've been able to make time for it. That's really beautiful. It's great that you have something that you're looking forward to getting back to. Do you feel like you've lost touch with that part of yourself, or is it more like you're just waiting for the right moment to pick it back up again?"
+            },
+            {
+                "role": "assistant",
+                "message": "I feel like I\u2019ve lost touch, a bit. I used to be so creative, but now I just feel like I\u2019m stuck in a rut. It\u2019s hard to explain."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're feeling a sense of disconnection from your creative side. That can be really tough to deal with. It's like a part of you is feeling stagnant and unfulfilled. Can you tell me more about what you mean by feeling stuck? Is it just with painting, or do you feel like you're feeling stuck in other areas of your life as well?"
+            },
+            {
+                "role": "assistant",
+                "message": "It\u2019s mostly just the creative stuff. I feel like I used to be able to come up with new ideas easily, but now I\u2019m just stuck in a rut."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're feeling a sense of creative blockage. That can be really frustrating. Have you ever felt like you've lost your sense of purpose or identity because of it? Like, who are you without your creative outlet?"
+            },
+            {
+                "role": "assistant",
+                "message": "A little bit, yeah. I feel like I\u2019m just going through the motions sometimes. But I try not to dwell on it too much."
+            },
+            {
+                "role": "user",
+                "message": "It sounds like you're trying to stay positive and not let it get you down. That's really admirable. Thank you for sharing all of this with me. I think I have a good understanding of what's been going on for you lately. We can discuss this further at our next appointment."
+            }
+        ]
+    }
+]

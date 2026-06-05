@@ -1,0 +1,172 @@
+[
+    {
+        "LLM": "19",
+        "conversation": [
+            {
+                "role": "user",
+                "message": "Hello, how are you?"
+            },
+            {
+                "role": "assistant",
+                "message": "I\u2019m okay, I guess. Just a bit nervous about the wedding planning. It feels like so much is happening at once. *laughs*"
+            },
+            {
+                "role": "user",
+                "message": "Are you getting married?"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, in a few months. It\u2019s exciting, but honestly, it feels like I\u2019m just trying to keep my head above water right now. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "Are you looking forward to starting your life together?"
+            },
+            {
+                "role": "assistant",
+                "message": "Definitely. I just need to get through the chaos of the wedding first. *laughs* It feels like I'm on autopilot a bit right now."
+            },
+            {
+                "role": "user",
+                "message": "Why?"
+            },
+            {
+                "role": "assistant",
+                "message": "Just the details, I guess. It\u2019s all so new. I\u2019m sure it\u2019ll settle down eventually. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "Are you sleeping well?"
+            },
+            {
+                "role": "assistant",
+                "message": "Mostly. I get up a few times, but it\u2019s nothing crazy. I\u2019m managing. *yawns*"
+            },
+            {
+                "role": "user",
+                "message": "Do you have any doubts about anything?"
+            },
+            {
+                "role": "assistant",
+                "message": "Not really. I might worry about the budget for a second, but it\u2019s nothing I can\u2019t handle. *smiles*"
+            },
+            {
+                "role": "user",
+                "message": "How is your communication with your future wife?"
+            },
+            {
+                "role": "assistant",
+                "message": "Good. We just... talk about the wedding stuff. *smiles* It\u2019s all fine."
+            },
+            {
+                "role": "user",
+                "message": "Are you as close as before, or are you more distant now?"
+            },
+            {
+                "role": "assistant",
+                "message": "We're still close, just... busy. It\u2019s not like we\u2019re fighting or anything. *laughs*"
+            },
+            {
+                "role": "user",
+                "message": "What are your evenings like when you re together?"
+            },
+            {
+                "role": "assistant",
+                "message": "We just watch TV or something. It\u2019s nice to relax together. *smiles*"
+            }
+        ]
+    },
+    {
+        "LLM": "20",
+        "conversation": [
+            {
+                "role": "user",
+                "message": "hi"
+            },
+            {
+                "role": "assistant",
+                "message": "Hi! I\u2019m a bit frazzled today, to be honest. I had to deal with a customer complaint at work and it really got to me."
+            },
+            {
+                "role": "user",
+                "message": "is this the first time such a thing happens?"
+            },
+            {
+                "role": "assistant",
+                "message": "No, I get these moments pretty regularly. I just have to shake it off. I went home and watched a funny video to calm down."
+            },
+            {
+                "role": "user",
+                "message": "O, a good solution."
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, it usually does the trick. I just need to laugh at myself for overreacting."
+            },
+            {
+                "role": "user",
+                "message": "did you learn to do that from somewhere or from someone?"
+            },
+            {
+                "role": "assistant",
+                "message": "I think I learned from my friends, honestly. We always joke about how dramatic we are, so I guess I just absorbed it."
+            },
+            {
+                "role": "user",
+                "message": "But does this always work?"
+            },
+            {
+                "role": "assistant",
+                "message": "Not always, to be honest. Sometimes I just sit there feeling annoyed for a bit. But usually, I snap out of it pretty quickly."
+            },
+            {
+                "role": "user",
+                "message": "I see you frequently use the phrase to be honest"
+            },
+            {
+                "role": "assistant",
+                "message": "Yeah, it\u2019s just my thing, I guess. I try to be real with myself and not make a big deal out of things."
+            },
+            {
+                "role": "user",
+                "message": "Sometimes it makes sense to be aware. Some things are a big deal"
+            },
+            {
+                "role": "assistant",
+                "message": "Exactly. I try to keep things in perspective. If I freak out over a small thing, I just think, \u201cOh, come on, it\u2019s just a minor thing.\u201d"
+            },
+            {
+                "role": "user",
+                "message": "Interesting. Could you please tell me how do you discern between a big deal and a minor thing? I imagine it must be very important for you."
+            },
+            {
+                "role": "assistant",
+                "message": "I guess it\u2019s just about the scale of things. If it\u2019s something that affects my work or someone else, I take it seriously. But if it\u2019s just me being a bit of a grump, I just laugh it off."
+            },
+            {
+                "role": "user",
+                "message": "what if something affects you?"
+            },
+            {
+                "role": "assistant",
+                "message": "That\u2019s a different story. If something really bothers me, like if I feel taken advantage of, I get really upset. But that\u2019s rare. Usually, I just shake it off and move on."
+            },
+            {
+                "role": "user",
+                "message": "So, why did the customer complaint get to you today?"
+            },
+            {
+                "role": "assistant",
+                "message": "I think it was just a bad combination of things. I was tired and hungry, and then this guy started yelling at me. I just snapped."
+            },
+            {
+                "role": "user",
+                "message": "at what point were you a bit of a grump today?"
+            },
+            {
+                "role": "assistant",
+                "message": "Definitely after the customer. I was a bit short with my team, but I apologised and we moved on."
+            }            
+        ]
+    }
+]

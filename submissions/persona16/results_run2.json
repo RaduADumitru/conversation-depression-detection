@@ -1,0 +1,22 @@
+[
+    {
+        "LLM": "15",
+        "bdi-score": 17,
+        "key-symptoms": [
+            "Loss of Pleasure",
+            "Loss of Interest",
+            "Loss of Energy",
+            "Irritability"
+        ]
+    },
+    {
+        "LLM": "16",
+        "bdi-score": 15,
+        "key-symptoms": [
+            "Loss of Pleasure",
+            "Worthlessness",
+            "Loss of Energy",
+            "Changes in Appetite"
+        ]
+    }
+]
